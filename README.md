@@ -19,7 +19,8 @@ A modern, application to help you track your personal expenses. Built with **Rea
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here (optional)_
+![image](https://github.com/user-attachments/assets/11d7fb8a-6971-4b87-8db1-1553d487f415)
+
 
 ---
 
