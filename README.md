@@ -1,6 +1,6 @@
-# 💸 Expense Tracker SPA
+# 💸 Expense Tracker
 
-A modern, single-page application to help you track your personal expenses. Built with **React**, styled with **Neumorphism + Glassmorphism**, and deployed on **GitHub Pages**.
+A modern, application to help you track your personal expenses. Built with **React**,
 
 🌐 **Live Demo**: [Click here](https://naflanmohamed.github.io/expense-tracker/)
 
