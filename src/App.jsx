@@ -59,6 +59,11 @@ function App() {
           onEdit={setEditingExpense}
         />
       </div>
+      <footer className="text-center mt-5">
+        <p className="text-muted">
+          Developed by <a href="https://www.linkedin.com/in/naflan-mohamed/" target="_blank" rel="noopener noreferrer">Naflan Mohamed</a>
+        </p>
+      </footer>
     </div>
   );
 }

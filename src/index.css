@@ -100,3 +100,8 @@ textarea::placeholder {
 .text-muted {
   color: #666 !important;
 }
+
+footer a{
+  color: #81befa;
+  text-decoration: none;
+}
